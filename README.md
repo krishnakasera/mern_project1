@@ -1,3 +1,14 @@
+# Product List App
+
+- Add product
+- Delete product
+- Built with React
+
+## Run Project
+npm install
+npm start
+
+
 git# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
